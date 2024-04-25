@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcsvparser.a CMakeFiles/csvparser.dir/src/CSVParser.cpp.o
-/usr/bin/ranlib libcsvparser.a
